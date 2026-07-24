@@ -50,3 +50,26 @@ SRM Institute of Science and Technology
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🎵 InstruNet AI
+> A **CNN-based Musical Instrument Recognition System** developed as part of the **Infosys Springboard AIML Internship**, using the **IRMAS dataset** for automatic musical instrument classification.
+
+**Tech Stack:** Python • TensorFlow • Librosa • NumPy • Pandas
+
+---
+
+### 👁️ DR Predict
+> A **Machine Learning web application** for **Diabetic Retinopathy Prediction**, helping users assess retinal disease risk through an interactive Streamlit interface.
+
+**Tech Stack:** Python • Scikit-Learn • Streamlit • Pandas • NumPy
+
+---
+
+### 🌍 Carbon Footprint Awareness Platform
+> A web application that estimates users' **carbon footprint** based on daily activities and promotes sustainable lifestyle choices through interactive visualizations.
+
+**Tech Stack:** Python • Streamlit • Docker • Git
