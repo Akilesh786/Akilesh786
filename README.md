@@ -13,6 +13,16 @@ SRM Institute of Science and Technology
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Cloud+Computing;Python;C%2B%2B;Deep+Learning;Generative+AI" />
 </p>
 
+---
+
+# 🚀 About Me
+
+- 🎓 Pursuing **B.Tech in Electronics & Communication Engineering** at **SRM Institute of Science and Technology**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Cloud Computing**
+- 💻 Skilled in **Python, C++, SQL, TensorFlow, Scikit-Learn, Pandas, and NumPy**
+- ☁️ Certified in **Oracle Cloud Infrastructure AI Foundations** and **AWS Certified Cloud Practioner**
+- 🌱 Currently strengthening my skills in **Data Structures & Algorithms** alongside AI and Machine Learning
+- 🎯 Passionate about building intelligent solutions to solve real-world problems
 
 ## 🛠️ Tech Stack
 
