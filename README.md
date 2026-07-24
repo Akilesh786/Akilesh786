@@ -10,5 +10,5 @@ SRM Institute of Science and Technology
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Enthusiast;Infosys+Springboard+AIML+Intern;Python+Developer;Learning+Deep+Learning+and+Computer+Vision;Preparing+for+Infosys+Specialist+Programmer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence;Machine+Learning;Cloud+Computing;Python;C%2B%2B;Deep+Learning;Generative+AI" />
 </p>
